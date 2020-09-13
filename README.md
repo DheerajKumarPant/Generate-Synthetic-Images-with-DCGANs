@@ -1,4 +1,4 @@
-# Generate-Synthetic-Images-with-DCGANs-in-Keras
+# Generate-Synthetic-Images-with-DCGANs
 
 #### In this project, generation of synthetic images is done using Generative Adversarial Networks (GANs) on top of Deep Convolutional layers, i.e., Deep Convolutional GAN[DCGAN] 
 
